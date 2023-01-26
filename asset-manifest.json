@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iamroare_chat_app/static/css/main.cf775c16.css",
+    "main.js": "/iamroare_chat_app/static/js/main.4221c50a.js",
+    "index.html": "/iamroare_chat_app/index.html",
+    "main.cf775c16.css.map": "/iamroare_chat_app/static/css/main.cf775c16.css.map",
+    "main.4221c50a.js.map": "/iamroare_chat_app/static/js/main.4221c50a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf775c16.css",
+    "static/js/main.4221c50a.js"
+  ]
+}
